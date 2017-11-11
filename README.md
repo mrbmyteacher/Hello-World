@@ -1,2 +1,5 @@
 # Hello-World
-THis is my first repository
+
+Hi Humans, 
+
+I like turtles.
